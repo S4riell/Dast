@@ -45,3 +45,6 @@ if __name__ == "__main__":
         await client.change_presence(activity=discord.CustomActivity(name="Surveille le bureau de Achi..."))
         
 client.run(token)
+
+
+# fin
